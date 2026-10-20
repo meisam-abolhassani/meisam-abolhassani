@@ -2,7 +2,7 @@
 
 Data analytics student in Guelph, Ontario, completing a Data Analytics with AI diploma at Herzing College (November 2026). Before moving into data, I spent 20 years in retail banking, rising from counter clerk to branch manager.
 
-**Tools:** Python (pandas, scikit-learn), R (dplyr), Tableau, Power BI, Excel, SQL (basic)
+**Tools:** Python (pandas, scikit-learn), R (dplyr), Tableau, Power BI, Excel, SQL Server (T-SQL)
 
 ## Projects
 
@@ -12,6 +12,7 @@ Data analytics student in Guelph, Ontario, completing a Data Analytics with AI d
 | E-commerce KPI Pipeline | Weekly KPIs and ROAS, built in both Python and R; totals reconciled across tables | pandas, dplyr |
 | Executive Dashboards | Video game market dashboard and a before and after dashboard redesign | Tableau |
 | Lead Conversion Prediction | Random Forest on 10,000 leads, compared with a baseline, with an honest "not ready" call | scikit-learn |
+| SQL Server Database Labs | Tables with constraints, all four join types, views, and full text indexes in SQL Server 2022 | T-SQL, SSMS |
 | Healthcare Data Cleaning | 10 quality checks, missing values to zero, corrupted dates repaired | pandas |
 
 **Open to:** data analyst internships in Ontario.
